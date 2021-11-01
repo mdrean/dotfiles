@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = maewenn.d@hotmail.fr
+	name = maewenn drean
